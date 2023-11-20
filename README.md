@@ -1,8 +1,8 @@
-你好，我说扣扣呃呃. 👋
-🌱 博客园地址：扣扣呃呃
-👯 微信公众号：扣扣呃呃
-image
-🔭 知乎：扣扣呃呃
-🤔 目前从事于自然语言处理相关工作，喜欢探索不同的技术
-⚡ 定制化arxiv，每日更新NLP相关论文：https://taishan1994.github.io/xiximayou-arxiv/
-😄 联系我-微信号：sunyongdi
+-你好，我说扣扣呃呃. 👋
+-🌱 博客园地址：扣扣呃呃
+-👯 微信公众号：扣扣呃呃
+-image
+-🔭 知乎：扣扣呃呃
+-🤔 目前从事于自然语言处理相关工作，喜欢探索不同的技术
+-⚡ 定制化arxiv，每日更新NLP相关论文：https://taishan1994.github.io/xiximayou-arxiv/
+-😄 联系我-微信号：sunyongdi
